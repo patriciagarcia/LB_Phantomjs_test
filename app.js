@@ -1,3 +1,4 @@
+// Idea and a big part of the code taken from: http://backbonetutorials.com/seo-for-single-page-apps/
 var express = require('express'),
     app = express(),
     server = process.argv[2] || 'liveblog16.sd-test.sourcefabric.org',
